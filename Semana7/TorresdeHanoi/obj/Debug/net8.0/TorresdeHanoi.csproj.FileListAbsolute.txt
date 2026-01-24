@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\bin\Debug\net8.0\TorresdeHanoi.exe
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\bin\Debug\net8.0\TorresdeHanoi.deps.json
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\bin\Debug\net8.0\TorresdeHanoi.runtimeconfig.json
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\bin\Debug\net8.0\TorresdeHanoi.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\bin\Debug\net8.0\TorresdeHanoi.pdb
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\TorresdeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\TorresdeHanoi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\TorresdeHanoi.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\TorresdeHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\TorresdeHanoi.sourcelink.json
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\TorresdeHanoi.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\refint\TorresdeHanoi.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\TorresdeHanoi.pdb
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\TorresdeHanoi.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\Semana7\TorresdeHanoi\obj\Debug\net8.0\ref\TorresdeHanoi.dll
