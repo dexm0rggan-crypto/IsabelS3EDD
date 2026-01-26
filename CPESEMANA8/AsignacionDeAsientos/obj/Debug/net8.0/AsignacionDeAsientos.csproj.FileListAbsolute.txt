@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\bin\Debug\net8.0\AsignacionDeAsientos.exe
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\bin\Debug\net8.0\AsignacionDeAsientos.deps.json
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\bin\Debug\net8.0\AsignacionDeAsientos.runtimeconfig.json
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\bin\Debug\net8.0\AsignacionDeAsientos.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\bin\Debug\net8.0\AsignacionDeAsientos.pdb
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\AsignacionDeAsientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\AsignacionDeAsientos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\AsignacionDeAsientos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\AsignacionDeAsientos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\AsignacionDeAsientos.sourcelink.json
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\AsignacionDeAsientos.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\refint\AsignacionDeAsientos.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\AsignacionDeAsientos.pdb
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\AsignacionDeAsientos.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\CPESEMANA8\AsignacionDeAsientos\obj\Debug\net8.0\ref\AsignacionDeAsientos.dll

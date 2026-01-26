@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TorresdeHanoi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1f6fa4504ec9ecc2dbaff29fe2077169471829")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bddb83ec587f2a33b32642ce7c27b7679b794008")]
 [assembly: System.Reflection.AssemblyProductAttribute("TorresdeHanoi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TorresdeHanoi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
