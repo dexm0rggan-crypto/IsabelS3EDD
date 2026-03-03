@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\bin\Debug\net8.0\CPE_S3.exe
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\bin\Debug\net8.0\CPE_S3.deps.json
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\bin\Debug\net8.0\CPE_S3.runtimeconfig.json
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\bin\Debug\net8.0\CPE_S3.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\bin\Debug\net8.0\CPE_S3.pdb
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\CPE_S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\CPE_S3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\CPE_S3.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\CPE_S3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\CPE_S3.sourcelink.json
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\CPE_S3.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\refint\CPE_S3.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\CPE_S3.pdb
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\CPE_S3.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\CPE_S3\obj\Debug\net8.0\ref\CPE_S3.dll
