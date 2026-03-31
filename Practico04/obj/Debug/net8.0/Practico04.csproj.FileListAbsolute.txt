@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\bin\Debug\net8.0\Practico04.exe
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\bin\Debug\net8.0\Practico04.deps.json
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\bin\Debug\net8.0\Practico04.runtimeconfig.json
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\bin\Debug\net8.0\Practico04.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\bin\Debug\net8.0\Practico04.pdb
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\Practico04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\Practico04.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\Practico04.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\Practico04.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\Practico04.sourcelink.json
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\Practico04.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\refint\Practico04.dll
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\Practico04.pdb
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\Practico04.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IsabelS3EDD\Practico04\obj\Debug\net8.0\ref\Practico04.dll
